@@ -1,0 +1,55 @@
+.active-class {
+    border-bottom:2px solid white;
+    padding-bottom:2px;
+
+}
+
+.app-loader {
+    text-align: center;
+    margin: 20% 20% 20% 20%;
+}
+
+.center{
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-item{
+    margin-right: 6px;
+}
+
+.display-center{
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.my-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+.checkout{
+    margin: auto;
+}
+.expiry{
+    margin-top: 10px;
+    width: 60%;
+    float: left;
+}
+
+.expiry .a{
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.cvc .a{
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.cvc{
+    margin-top: 10px;
+    width: 25%;
+    float: right;
+}
