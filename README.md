@@ -35,7 +35,7 @@ This command will download and install all the necessary dependencies.
 ## Step 3: Start Servers
 After the packages are installed, start both the client and server servers with the following commands:
 
-    ```bash
+1.  ```bash
     npm start
 This will launch the client and server applications.
 
