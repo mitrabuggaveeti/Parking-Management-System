@@ -1,0 +1,28 @@
+Read this file before executing the code:
+
+Software which has to be installed before executing the files:
+1)NodeJs  (latest version)
+2)MongoDB (latest version)
+
+Steps to Execute the files :-
+
+Step 1)
+Copy the following files to your windows computer
+->server
+->client
+
+Step 2)
+Go to the directory in which these files(client,server) are saved, and install packages with command
+ "npm install" which installs all the required packages
+
+Step 3)
+After the packages are installed start both (client,server) servers with command "npm start"
+
+Step 4)
+Wait for 1 min for the code to execute and load.
+
+Step 5)
+Now the webpage runs on the port(3000) in local machine , webpage automatically opens in the web browser.
+
+Step 6)
+Login/signup with credintials , now you can manage your booking 
